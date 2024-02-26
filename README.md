@@ -1,5 +1,10 @@
-### Hi there, I'm Hakob Ghlijyan. 👋
-### I'm Developer. iOS and UI/UX
+<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/hakobghlijyan/" target="_blank">Hakob Ghlijyan</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+
+https://www.instagram.com/hakobghlijyan/
+Hi there, I'm Hakob Ghlijyan. 👋
+I'm Developer. iOS and UI/UX
 
 <!--
 **HakobGhlijyan/HakobGhlijyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
