@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Hakob Ghlijyan. 👋
+### I'm Developer. iOS and UI/UX
 
 <!--
 **HakobGhlijyan/HakobGhlijyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
