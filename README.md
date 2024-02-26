@@ -4,8 +4,11 @@
 
   ### :man_technologist: For Me:
   
-I am a beginner iOS and UI/UX developer. My path to it began in 2016, when I started studying Figma web design. After that, there was a gap of a couple of months where I tried myself in many directions, tried to learn the Swift language and iOS development on UIKit, and since the beginning of 2023, but most of all I was hooked on UI /UX and iOS development! In 2023, I studied software development at the Yandex Practicum courses, at the courses at SwiftBook.ru .
-And I also studied SwiftUI.I have completed all the courses of excellent lessons . Thanks Nick Sarno !! https://github.com/SwiftfulThinking   
+I am a beginner iOS and UI/UX developer. My path to it began in 2016, when I started studying Figma web design.
+After that, there was a gap of a couple of months where I tried myself in many directions, tried to learn the Swift language and iOS development on UIKit, and since the beginning of 2023, but most of all I was hooked on UI /UX and iOS development!
+In 2023, I studied software development at the Yandex Practicum courses, at the courses at SwiftBook.ru .
+And I also studied SwiftUI.I have completed all the courses of excellent lessons .
+Thanks Nick Sarno !! https://github.com/SwiftfulThinking   
 At the moment, my studies on the course are almost completed and I am looking for my first job!
 Here are some ideas to get you started:
 
