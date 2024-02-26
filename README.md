@@ -21,6 +21,7 @@ I'm currently looking for my first job!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌍 I speak English, Russian, Armenian , Francais
 
 
 
@@ -50,18 +51,13 @@ I'm currently looking for my first job!
 
 ### 🛠 Statiscics:
 
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HakobGhlijyan&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HakobGhlijyan&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HakobGhlijyan&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HakobGhlijyan&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HakobGhlijyan&theme=default&utcOffset=8)
-
+<div id="stat" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HakobGhlijyan&theme=default" alt=""/>,
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HakobGhlijyan&theme=default" alt=""/>,
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HakobGhlijyan&theme=default"/>,
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HakobGhlijyan&theme=default" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HakobGhlijyan&theme=default&utcOffset=8" alt=""/>
+</div>
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -106,7 +102,9 @@ https://github.com/SwiftfulThinking Nick Sarno , прошёл все курсы 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" title="XCode" alt="Xcode" width="40" height="40"/>&nbsp
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" title="XCode" alt="Xcode" width="40" height="40"/>&nbsp          
 </div>
+
+
+---
 
