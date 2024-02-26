@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/HakobGhlijyan" target="_blank">Hakob Ghlijyan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-
-https://www.instagram.com/hakobghlijyan/
-Hi there, I'm Hakob Ghlijyan. 👋
-I'm Developer. iOS and UI/UX
+<h3 align="center">I am developer. iOS and UI/UX Design, from Russia 🇷🇺</h3>
 
 <!--
 **HakobGhlijyan/HakobGhlijyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
