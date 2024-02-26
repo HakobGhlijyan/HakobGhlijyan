@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/hakobghlijyan/" target="_blank">Hakob Ghlijyan</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/HakobGhlijyan" target="_blank">Hakob Ghlijyan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
