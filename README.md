@@ -46,6 +46,24 @@ I'm currently looking for my first job!
   />
 </picture>
 
+---
+
+### 🛠 Statiscics:
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HakobGhlijyan&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HakobGhlijyan&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HakobGhlijyan&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HakobGhlijyan&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HakobGhlijyan&theme=default&utcOffset=8)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 # Привет, меня зовут Акоб!
 
@@ -91,3 +109,4 @@ https://github.com/SwiftfulThinking Nick Sarno , прошёл все курсы 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" title="XCode" alt="Xcode" width="40" height="40"/>&nbsp
           
 </div>
+
