@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/HakobGhlijyan" target="_blank">Hakob Ghlijyan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/HakobGhlijyan" target="_blank">Hakob Ghlijyan</a>
 <h3 align="center">I am developer. iOS and UI/UX Design, from Russia , Work in Armenia , Yerevan.
 
   ### :man_technologist: For Me:
