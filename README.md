@@ -3,14 +3,13 @@
 
   ### :man_technologist: For Me:
   
-I am a beginner iOS and UI/UX developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-My path to it began in 2016, when I started studying Figma web design.
-After that, there was a gap of a couple of months where I tried myself in many directions, tried to learn the Swift language and iOS development on UIKit, and since the beginning of 2023, but most of all I was hooked on UI /UX and iOS development!
-In 2023, I studied software development at the Yandex Practicum courses, at the courses at SwiftBook.ru .
-And I also studied SwiftUI.I have completed all the courses of excellent lessons .
-Thanks Nick Sarno !! https://github.com/SwiftfulThinking   
-At the moment, my training is almost complete, but no one is perfect, so I'm not leaving to study.
-I'm currently looking for my first job!
+I am a budding iOS and UI/UX developer. My passion for this field began in 2016 when I started exploring Figma web design. 
+I tried my hand at various areas of design before delving deeper into the Swift programming language and iOS development using UIKit. 
+In 2022, the new Swift programming language in iOS development captured my attention the most. 
+Since then, I have studied software development through the Yandex Practicum and SwiftBook.ru courses. 
+I have also taken many courses on YouTube about Swift UI, including one from github.com/SwiftfulThinking, which I completed. 
+At the moment, I continue to explore the latest features of mobile programming on iOS and am currently seeking my first opportunity to apply my skills.
+I am currently looking for my first job!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -66,16 +65,13 @@ I'm currently looking for my first job!
 
 ### :man_technologist: Обо мне:
 
-Я начинающий iOS и UI/UX разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
-Мой путь в it начался со 2016, когда я начал изучать веб дизайн Figma. После был промежуток в пару месяцев,
-где я пробовал себя во многих направлениях, пробовал изучать язык Swift и iOS разработку на UIKit.
-В начала 2023 года больше всего меня зацепила UI/UX в iOS разработке !
-В 2022 году по я изучал разработку на курсах Яндекс Практикум, 2023 - на курсах у SwiftBook.ru ,
-также изучал SwiftUI .
-https://github.com/SwiftfulThinking Nick Sarno , прошёл все курсы , великолепных уроков .
-В настоящий момент мое обучение почти завершено , но никто не совершенен , потому и учиться не оставляю.
-В данный момен я ищю свою первую работу!
-
+Я начинающий разработчик iOS и UI/UX. Моя страсть к этой области началась в 2016 году, когда я начал изучать веб-дизайн Figma
+Я пробовал свои силы в различных областях дизайна, прежде чем углубиться в язык программирования Swift и разработку iOS с использованием UIKit.
+В 2022 году мое внимание больше всего привлек новый язык программирования Swift для разработки iOS.
+С тех пор я изучал разработку программного обеспечения с помощью практикума Яндекса и курсов SwiftBook.ru.
+Я также прослушал множество курсов на YouTube о Swift UI, включая один из github.com/SwiftfulThinking, который я закончил.
+На данный момент я продолжаю изучать новейшие возможности мобильного программирования на iOS и в настоящее время ищу свою первую возможность применить свои навыки.
+В настоящее время я ищу свою первую работу!
 
 ---
 
