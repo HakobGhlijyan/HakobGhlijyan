@@ -126,3 +126,10 @@ I am currently looking for my first job!
 
 ---
 
+### 🛠 Resume example:
+
+
+<img src="https://github.com/HakobGhlijyan/HakobGhlijyan/blob/main/Resume%20-%20A4%20-1.png" alt="The Unlimited" height="2000" />
+
+<img src="https://github.com/HakobGhlijyan/HakobGhlijyan/blob/main/Resume%20-%20A4%20-2.png" alt="The Unlimited" height="2000" />
+
