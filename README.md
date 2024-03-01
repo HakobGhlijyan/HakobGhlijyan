@@ -128,8 +128,13 @@ I am currently looking for my first job!
 
 ### 🛠 Resume example:
 
+<div id="stat" align="center">
 
-<img src="https://github.com/HakobGhlijyan/HakobGhlijyan/blob/main/Resume%20-%20A4%20-1.png" alt="The Unlimited" height="2000" />
+<img src="https://github.com/HakobGhlijyan/HakobGhlijyan/blob/main/Resume%20-%20A4%20-1.png" alt="The Unlimited" height="1000" />
+ 😄😄😄
+<img src="https://github.com/HakobGhlijyan/HakobGhlijyan/blob/main/Resume%20-%20A4%20-2.png" alt="The Unlimited" height="1000" />
+  
+</div>
 
-<img src="https://github.com/HakobGhlijyan/HakobGhlijyan/blob/main/Resume%20-%20A4%20-2.png" alt="The Unlimited" height="2000" />
+
 
