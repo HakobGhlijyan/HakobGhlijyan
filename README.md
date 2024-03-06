@@ -17,9 +17,9 @@ I am currently looking for my first job!
 
 ### 🤝 My Social Page: <p align="center">
   <a href="https://vk.com/hakobghlijyan">VK</a> •
-  <a href="https://www.instagram.com/hakobghlijyan/">Instagram</a> •
-  <a href="https://github.com/HakobGhlijyan/">Website</a> •
-  <a href="https://www.linkedin.com/in/hakobghlijyan/">LinkedIn</a> •
+  <a href="https://www.instagram.com/hakobghlijyan/">Instagram</a> 
+  <a href="https://github.com/HakobGhlijyan/">Website</a> 
+  <a href="https://www.linkedin.com/in/hakobghlijyan/">LinkedIn</a> 
 </p>
 
 <div id="badges">
