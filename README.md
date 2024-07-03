@@ -5,8 +5,6 @@
   
 I am an iOS and UI/UX developer with a passion for this field that began in 2016 when I started learning Figma web design. Since then, I have been delving deeper into the Swift programming language and iOS development with Swift UI. As I continue to learn about the latest mobile programming features on iOS, I am looking for opportunities to put my skills to use.
 
-https://www.linkedin.com/in/hakobghlijyan/
-
 - 🌍 I speak English, Russian, Armenian , Francais
 
 
