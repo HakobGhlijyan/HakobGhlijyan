@@ -3,13 +3,7 @@
 
   ### :man_technologist: For Me:
   
-I am a budding iOS and UI/UX developer. My passion for this field began in 2016 when I started exploring Figma web design. 
-I tried my hand at various areas of design before delving deeper into the Swift programming language and iOS development using UIKit. 
-In 2022, the new Swift programming language in iOS development captured my attention the most. 
-Since then, I have studied software development through the Yandex Practicum and SwiftBook.ru courses. 
-I have also taken many courses on YouTube about Swift UI, including one from github.com/SwiftfulThinking, which I completed. 
-At the moment, I continue to explore the latest features of mobile programming on iOS and am currently seeking my first opportunity to apply my skills.
-I am currently looking for my first job!
+I am an iOS and UI/UX developer with a passion for this field that began in 2016 when I started learning Figma web design. Since then, I have been delving deeper into the Swift programming language and iOS development with Swift UI. As I continue to learn about the latest mobile programming features on iOS, I am looking for opportunities to put my skills to use.
 
 - 🌍 I speak English, Russian, Armenian , Francais
 
@@ -37,6 +31,7 @@ I am currently looking for my first job!
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
+
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
