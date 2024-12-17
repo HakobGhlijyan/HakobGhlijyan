@@ -3,7 +3,15 @@
 
   ### :man_technologist: For Me:
   
-I am an iOS and UI/UX developer with a passion for this field that began in 2016 when I started learning Figma web design. Since then, I have been delving deeper into the Swift programming language and iOS development with Swift UI. As I continue to learn about the latest mobile programming features on iOS, I am looking for opportunities to put my skills to use.
+Я являюсь разработчиком iOS и UI/UX и дизайна приложений в Figma.
+Углубился в изучении языка программирования Swift и разработку для iOS в UIKit и SwiftUI . Сосредоточившись на SwiftUI для создания современных, интерактивных приложений.
+Я продолжаю совершенствоваться в возможности мобильной разработки на iOS и ищу возможности, где смогу применить свои навыки и творческий подход
+для создания значимых проектов.
+
+I am an iOS and UI/UX developer and an application designer at Figma.
+He delved into learning the Swift programming language and developing for iOS in UIKit and SwiftUI. Focusing on SwiftUI to create modern, interactive applications.
+I continue to improve my mobile development capabilities on iOS and am looking for opportunities where I can apply my skills and creativity
+to create meaningful projects.
 
 - 🌍 I speak English, Russian, Armenian , Francais
 
