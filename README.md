@@ -2,11 +2,6 @@
 <h3 align="center">I am developer. iOS and UI/UX Design, from Russia , Work in Armenia , Yerevan.
 
   ### :man_technologist: For Me:
-  
-Я являюсь разработчиком iOS и UI/UX и дизайна приложений в Figma.
-Углубился в изучении языка программирования Swift и разработку для iOS в UIKit и SwiftUI . Сосредоточившись на SwiftUI для создания современных, интерактивных приложений.
-Я продолжаю совершенствоваться в возможности мобильной разработки на iOS и ищу возможности, где смогу применить свои навыки и творческий подход
-для создания значимых проектов.
 
 I am an iOS and UI/UX developer and an application designer at Figma.
 He delved into learning the Swift programming language and developing for iOS in UIKit and SwiftUI. Focusing on SwiftUI to create modern, interactive applications.
