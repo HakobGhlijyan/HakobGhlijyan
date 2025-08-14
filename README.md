@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/HakobGhlijyan" target="_blank">Hakob Ghlijyan</a>
-<h3 align="center">I am developer. iOS and UI/UX Design, from Russia , Work in Armenia , Yerevan.
+<h1 align="center"> Hi there, I'm <a href="https://github.com/HakobGhlijyan" target="_blank">Hakob Ghlijyan</a> iOS Developer
 
 <picture>
   <source
